@@ -10,7 +10,11 @@ TLC5940 library: http://code.google.com/p/tlc5940arduino/downloads/list
 Both are located in /arduino-1.0.5/libraries(/FFT or /Tlc5940 respectively)
 
 I am using:
+
   1 Arduino Uno
+
   3 TLC5940NT
+
   16 Common Anode RGB LED (*IMOPRTANT MUST BE COMMON ANODE!)
+
   ?# Wires and other assorted odd componets
