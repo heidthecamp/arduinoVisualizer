@@ -174,7 +174,6 @@ uint8_t tlc_updateFades()
 /** Updates any running fades.
     \param currentMillis the current millis() time.
     \returns 0 if there are no fades left in the buffer. */
-/*
 uint8_t tlc_updateFades(uint32_t currentMillis)
 {
     struct Tlc_Fade *end = tlc_fadeBuffer + tlc_fadeBufferSize;
@@ -205,7 +204,7 @@ uint8_t tlc_updateFades(uint32_t currentMillis)
     }
     return tlc_fadeBufferSize;
 }
-*/
+
 /* @} */
 
 #endif
